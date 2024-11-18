@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, me chamo Marcos Isaac!
 
-<!--
-**isaaccrvg/isaaccrvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Sou do Rio de Janeiro  
+💻 Desenvolvedor Front-End em Formação, com foco em React, React Native e UI/UX Design  
+🎓 Estudante de Engenharia de Software no Instituto Infnet  
+📘 Atualmente aprimorando minhas habilidades em programação e design  
+[React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) Fazendo o curso **Sujeito Programador** para me especializar em React.  
 
-Here are some ideas to get you started:
+## 🚀 Minhas Habilidades
+- React e React Native  
+- UI/UX Design (em processo de aprendizado)  
+- Desenvolvimento Mobile-First  
+- Manipulação de estados e eventos com React  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 O que estou aprendendo agora
+- Projetos práticos com React Native  
+- Design de interfaces com Figma  
+- Integração de APIs em aplicativos móveis  
+
+## 📫 Onde me encontrar
+- [LinkedIn](www.linkedin.com/in/marcos-isaac-7b6654197)  
+- [Portfólio](em desenvolvimento)  
+
+## ⚡ Projetos
+- **[AT_FUNDREACT](https://github.com/isaaccrvg/AT_FUNDREACT):** Projetos iniciais explorando React  
+- **[tp3-mobile](https://github.com/isaaccrvg/tp3-mobile):** Aplicativos básicos utilizando React Native  
+- **[Transmuta-o-Mobile-First](https://github.com/isaaccrvg/Transmuta-o-Mobile-First):** Layouts responsivos usando a abordagem Mobile-First  
+
+---
+Sempre disposto a aprender e colaborar em novos projetos! ✨
