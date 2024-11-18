@@ -18,7 +18,7 @@
 - Integração de APIs em aplicativos móveis  
 
 ## 📫 Onde me encontrar
-- [LinkedIn](www.linkedin.com/in/marcos-isaac-7b6654197)  
+- [LinkedIn](https://www.linkedin.com/in/marcos-isaac-7b6654197/)  
 - [Portfólio](em desenvolvimento)  
 
 ## ⚡ Projetos
